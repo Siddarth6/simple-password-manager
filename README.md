@@ -19,7 +19,7 @@ The Simple Password Manager is a Java-based application that serves as a passwor
 2. Set up the MySQL database with the provided schema script.
 3. Build and run the Java application.
    ```cmd
-    cd simple-password-manager
+    cd simple_password_manager
     javac Main.java
     java Main
    ```
