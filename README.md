@@ -1,4 +1,4 @@
-# simple_password_manager
+# Simple Password Manager
 ## Overview
 The Simple Password Manager is a Java-based application that serves as a password management tool. It provides a user-friendly frontend built in Java and a MySQL backend for secure storage of passwords.
 
